@@ -56,4 +56,5 @@ I'm passionate about the convergence of **Finance and IT** and have transitioned
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/thi%C3%AAn-h%C6%B0%C6%A1ng-tr%E1%BA%A7n-3a64b830b/)
-- **Email**: huongttt.ueh@gmail.com
+- [Email](huongttt.ueh@gmail.com)
+
