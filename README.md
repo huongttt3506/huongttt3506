@@ -34,7 +34,7 @@ I'm passionate about the convergence of **Finance and IT** and have transitioned
     <img src="https://img.shields.io/badge/Naver_지도_API-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver 지도 API" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Figma-4479A1?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ### Version Control
